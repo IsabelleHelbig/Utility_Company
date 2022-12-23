@@ -1,0 +1,41 @@
+Test 1
+PS C:\Users\Izylv\OneDrive\Desktop\school\SAIT\CPRG-216 Object-Oriented Programming\Assignment 1> & C:/Users/Izylv/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/Izylv/OneDrive/Desktop/school/SAIT/CPRG-216 Object-Oriented Programming/Assignment 1/Assignment1.py"
+Welcome to the Global Energy bill calculator!
+Enter your account number: 123456
+Enter the month number (e.g., for January, enter 1): 2
+Enter your electricity plan (EFIR or EFLR): EFIR
+Enter the amount of electricity you used in month 2 (in kWh): 500
+Enter your gas plan (GFIR or GFLR): GFIR
+Enter the amount of gas you used in 2 (in GJ): 700
+Enter the abbreviation for your province of residence (two letters): AB
+Thank you!
+Total amount due now: $205.44
+PS C:\Users\Izylv\OneDrive\Desktop\school\SAIT\CPRG-216 Object-Oriented Programming\Assignment 1>
+
+Test 2
+PS C:\Users\Izylv\OneDrive\Desktop\school\SAIT\CPRG-216 Object-Oriented Programming\Assignment 1> & C:/Users/Izylv/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/Izylv/OneDrive/Desktop/school/SAIT/CPRG-216 Object-Oriented Programming/Assignment 1/Assignment1.py"
+Welcome to the Global Energy bill calculator!
+Enter your account number: 456789
+Enter the month number (e.g., for January, enter 1): 4
+Enter your electricity plan (EFIR or EFLR): EFLR
+Enter the amount of electricity you used in month 4 (in kWh): 700
+Enter your gas plan (GFIR or GFLR): GFLR
+Enter the amount of gas you used in 4 (in GJ): 650
+Enter the abbreviation for your province of residence (two letters): BC
+Thank you!
+Total amount due now: $221.82
+PS C:\Users\Izylv\OneDrive\Desktop\school\SAIT\CPRG-216 Object-Oriented Programming\Assignment 1>
+
+Test 3
+PS C:\Users\Izylv\OneDrive\Desktop\school\SAIT\CPRG-216 Object-Oriented Programming\Assignment 1> & C:/Users/Izylv/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/Izylv/OneDrive/Desktop/school/SAIT/CPRG-216 Object-Oriented Programming/Assignment 1/Assignment1.py"
+Welcome to the Global Energy bill calculator!
+Enter your account number: 147852
+Enter the month number (e.g., for January, enter 1): 11
+Enter your electricity plan (EFIR or EFLR): EFIR
+Enter the amount of electricity you used in month 11 (in kWh): 1100
+Enter your gas plan (GFIR or GFLR): GFLR
+Enter the amount of gas you used in 11 (in GJ): 1320
+Enter the abbreviation for your province of residence (two letters): NT
+Thank you!
+Total amount due now: $280.17
+PS C:\Users\Izylv\OneDrive\Desktop\school\SAIT\CPRG-216 Object-Oriented Programming\Assignment 1>
